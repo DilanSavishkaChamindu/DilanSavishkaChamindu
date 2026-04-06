@@ -24,39 +24,70 @@ I'm a passionate Full-Stack Software Engineer who loves building scalable web, m
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Programming Languages & Tools 💻
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 🎨 Frontend & Mobile
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5"/></a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3"/></a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/></a>
+  &nbsp;
+  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript"/></a>
+  &nbsp;
+  <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React"/></a>
+  &nbsp;
+  <a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js"/></a>
+  &nbsp;
+  <a href="https://flutter.dev" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter"/></a>
+</p>
 
 ### ⚙️ Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java"/></a>
+  &nbsp;
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" title="Spring Boot"/></a>
+  &nbsp;
+  <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"/></a>
+  &nbsp;
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"/></a>
+</p>
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+  <a href="https://www.mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL"/></a>
+  &nbsp;
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" title="PostgreSQL"/></a>
+  &nbsp;
+  <a href="https://www.mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB"/></a>
+</p>
 
 ### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Python](https://img.shields.io/badge/Python_AI-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <a href="https://www.tensorflow.org" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" title="TensorFlow"/></a>
+  &nbsp;
+  <a href="https://pytorch.org" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" title="PyTorch"/></a>
+</p>
 
-### ☁️ Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### ☁️ Cloud, DevOps & Tools
+<p align="center">
+  <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker"/></a>
+  &nbsp;
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS"/></a>
+  &nbsp;
+  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/></a>
+  &nbsp;
+  <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/></a>
+  &nbsp;
+  <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code"/></a>
+  &nbsp;
+  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" title="IntelliJ IDEA"/></a>
+  &nbsp;
+  <a href="https://www.figma.com" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma"/></a>
+</p>
+
+<hr/>
 
 ---
 
@@ -71,73 +102,17 @@ I'm a passionate Full-Stack Software Engineer who loves building scalable web, m
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilanSavishkaChamindu&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak" width="60%"/>
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DilanSavishkaChamindu&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b" alt="Contribution Graph" width="95%"/>
-</p> -->
+</p>
 
 ---
 
-### Programming Languages & Tools 💻:
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <a target="_blank" href="https://www.w3schools.com/html/html_intro.asp"> <img src="./res/html.svg" alt="html" title="HTML5"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.w3schools.com/css/css_intro.asp"> <img src="./res/css.svg" alt="css" title="CSS3"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.w3schools.com/js/js_intro.asp"> <img src="./res/javascript.svg" alt="JavaScript" title="JavaScript"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://getbootstrap.com"> <img src="./res/bootstrap.svg" alt="Bootstrap" title="Bootstrap"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.php.net"> <img src="./res/php.svg" alt="php" title="PHP"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.mysql.com"> <img src="./res/mysql.svg" alt="mysql" title="MySQL"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.java.com/en/"> <img src="./res/java.svg" alt="java" title="Java"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://nodejs.org/en"> <img src="./res/nodejs.svg" alt="nodejs" title="Node JS"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://reactnative.dev"> <img src="./res/react-native.svg" alt="react-native" title="React-Native"/> </a>
-  <!-- &nbsp; -->
-  <a target="_blank" href="https://www.mongodb.com"> <img src="./res/mongoDB.svg" alt="mongobd" title="Mongo DB"/> </a>
-  <!-- &nbsp; --> 
-  <a target="_blank" href="https://www.arduino.cc"> <img src="./res/arduino.svg" alt="arduino" title="Arduino"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://git-scm.com"> <img src="./res/git.svg" alt="git" title="Git"/> </a> 
-</p>
-
-<p align="center">
-  <a target="_blank" href="https://code.visualstudio.com"> <img src="./res/vscode.svg" alt="vs code" title="Visual Studio Code"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://netbeans.apache.org"> <img src="./res/netbeans.svg" alt="netbeans IDE" title="Apache NetBeans IDE"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://github.com"> <img src="./res/github-light.svg" alt="github" title="GitHub"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.visual-paradigm.com"> <img src="./res/visualParadigm.svg" alt="visual paradigm" title="Visual Paradigm"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.figma.com"> <img src="./res/figma.svg" alt="figma UX UI" title="Figma"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.canva.com"> <img src="./res/canva.svg" alt="canva" title="Canva"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.adobe.com/products/illustrator.html"> <img src="./res/illustrator.svg" alt="Adobe Illustrator" title="Adobe Illustrator"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.adobe.com/products/photoshop.html"> <img src="./res/photoshop.svg" alt="Adobe Photoshop" title="Adobe Photoshop"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.blackmagicdesign.com/products/davinciresolve"> <img src="./res/davinciResolve.svg" alt="DaVinci Resolve" title="DaVinci Resolve"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.blender.org"> <img src="./res/blender.svg" alt="Blender" title="Blender"/> </a>
-  &nbsp;
-  <a target="_blank" href="https://www.jetbrains.com/idea/"> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" width="50" alt="inteliJ IDE" title="inteliJ IDE"/> </a>
-</p>
-
-<hr>
-
-<p>
-
-<!-- ## 🏆 GitHub Trophies -->
-
-<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DilanSavishkaChamindu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
-</p> -->
+</p>
 
 ---
 
