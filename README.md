@@ -71,17 +71,17 @@ I'm a passionate Full-Stack Software Engineer who loves building scalable web, m
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilanSavishkaChamindu&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak" width="60%"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DilanSavishkaChamindu&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b" alt="Contribution Graph" width="95%"/>
-</p>
+</p> -->
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DilanSavishkaChamindu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
-</p>
+</p> -->
 
 ---
 
