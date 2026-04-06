@@ -52,6 +52,8 @@ I'm a passionate Full-Stack Software Engineer who loves building scalable web, m
   <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"/></a>
   &nbsp;
   <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"/></a>
+  &nbsp;
+  <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP"/></a>
 </p>
 
 ### 🗄️ Databases
@@ -63,12 +65,12 @@ I'm a passionate Full-Stack Software Engineer who loves building scalable web, m
   <a href="https://www.mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB"/></a>
 </p>
 
-### 🤖 AI / ML
+<!-- ### 🤖 AI / ML
 <p align="center">
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" title="TensorFlow"/></a>
   &nbsp;
   <a href="https://pytorch.org" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" title="PyTorch"/></a>
-</p>
+</p> -->
 
 ### ☁️ Cloud, DevOps & Tools
 <p align="center">
